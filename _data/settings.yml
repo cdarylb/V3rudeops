@@ -30,7 +30,7 @@ menu__settings:
 # Author Settings
 author:
   author__name: RudeOps
-  author__bio: Votre newsletter de veille dédiée à la tech en général et le devops en particulier. Garantie sans morceaux de Elon Musk et sans startup nation.
+  author__bio: Votre newsletter de veille dédiée à la tech en général et au devops en particulier. Garantie sans morceaux de Elon Musk et sans startup nation.
   author__avatar: '/images/Alain.PNG'
 
 social:
