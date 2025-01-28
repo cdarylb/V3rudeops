@@ -1,0 +1,87 @@
+---
+layout: default
+image: '/images/LP_rude.jpg'
+---
+
+{% include section-hero.html %}
+
+<style>
+.section.logos{padding-top:10;border-top:none}
+.logos__list{display:flex;justify-content:space-between;align-items:center;flex-wrap:wrap;margin:-16px}
+.logos__item{padding:16px;margin-bottom:0}
+.logos__link{display:block;transition:all .2s ease}
+.logos__link:hover{transform:scale(1.1);opacity:.8}
+.logos__image{height:36px;filter:invert(51%) sepia(4%) saturate(1703%) hue-rotate(179deg) brightness(85%) contrast(89%)}@media(max-width: 576px){.logos__image{height:32px}}.dark-mode 
+.logos__image{filter:invert(100%) sepia(32%) saturate(304%) hue-rotate(200deg) brightness(115%) contrast(88%)}.work{margin-bottom:32px;transition:transform .2s}
+.work__image{position:relative;display:block;width:100%;aspect-ratio:1/1;border-radius:16px;user-select:none;transform:translate(0);overflow:hidden;background-color:var(--background-alt-color)}
+.work__image:hover{transform:translateY(-4px)}
+.work__image:hover img{transition:all .2s}
+.work__image img{position:absolute;top:0;left:0;width:100%;height:100%;object-fit:cover;border-radius:16px;pointer-events:none}@supports not (aspect-ratio: 1/1){.work__image{padding-bottom:100%}}
+.work__info{margin-top:28px}.work__info .work__category{margin-bottom:4px;font-size:16px;font-weight:500;color:var(--heading-font-color)}
+.work__info .work__title{display:inline-block;margin-bottom:0;font-size:32px;line-height:1}
+.work__info .work__title a:hover{box-shadow:0 -1px 0 0 var(--primary-color) inset,0 -3px 0 0 var(--primary-color) inset}</style>
+
+<section class="section logos">
+    <div class="container">
+      <div class="row">
+        <div class="col col-12">
+  
+          <div class="section__info">
+            <p>Ils sont abonnés et nous lisent <span style="font-size:170%;color:#ffd147;">♥</span> </p>
+          </div>
+  
+          <ul class="logos__list list-reset">
+            
+            <li class="logos__item">
+              <a href="https://bearstech.com/" class="logos__link" rel="noopener">
+                <img src="/images/logo-bt.svg" alt="Bearstech" class="logos__image">
+              </a>
+            </li>
+            
+            <li class="logos__item">
+              <a href="https://www.criteo.com/fr/" class="logos__link" rel="noopener">
+                <img src="/images/criteo-1.svg" alt="Criteo" class="logos__image">
+              </a>
+            </li>
+            
+            <li class="logos__item">
+              <a href="https://www.soprasteria.com/fr" class="logos__link" rel="noopener">
+                <img src="/images/Sopra_Steria_logo.svg" alt="Sopra Steria" class="logos__image">
+              </a>
+            </li>
+            
+            <li class="logos__item">
+              <a href="https://u-paris.fr/" class="logos__link" rel="noopener">
+                <img src="/images/Logo_Université_Paris-Cité.svg" alt="Université Paris Cité" class="logos__image">
+              </a>
+            </li>
+            
+            <li class="logos__item">
+              <a href="https://www.accenture.com/fr-fr" class="logos__link" rel="noopener">
+                <img src="/images/Accenture.svg" alt="Accenture" class="logos__image">
+              </a>
+            </li>
+
+            <li class="logos__item">
+              <a href="https://www.u-bordeaux-montaigne.fr/fr/index.html" class="logos__link" rel="noopener">
+                <img src="/images/Universität_Bordeaux_Logo.svg" alt="Université Bordeaux" class="logos__image">
+              </a>
+            </li>
+            
+            <li class="logos__item">
+              <a href="https://www.zenika.com/" class="logos__link" rel="noopener">
+                <img src="/images/zenika.svg" alt="Zenika" class="logos__image">
+              </a>
+            </li>
+            
+          </ul>
+  
+        </div>
+      </div>
+    </div>
+  </section>
+  <!-- end logos -->
+
+{% include section-blog.html %}
+
+{% include section-testimonials.html %}
