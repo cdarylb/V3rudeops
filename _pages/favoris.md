@@ -1,13 +1,7 @@
 ---
 layout: page
 title: Nos favoris
-subtitle: Qu'on vous conseille pour une veille techno de qualité	
-thumbnail-img: /assets/img/Alain2-Anssi.png
-gh-repo: daattali/beautiful-jekyll
-tags: [devops, books]
-comments: true
-mathjax: true
-author: RudeOps
+permalink: /favoris/
 ---
 
 ![Charlie](/images/Charlie-Nuages.png "Charlie dans les nuages")
