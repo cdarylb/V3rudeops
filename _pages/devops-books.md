@@ -1,13 +1,8 @@
 ---
 layout: page
 title: Les livres sur le DevOps
-subtitle: Qu'on a lus et qu'on vous conseille	
-thumbnail-img: /assets/img/Alain2-Anssi.png
-gh-repo: daattali/beautiful-jekyll
-tags: [devops, books]
-comments: true
-mathjax: true
-author: RudeOps
+permalink: /devops-books/
+
 ---
 
 ![Alain lit](/images/Alain Lit.png "Alain lit")
