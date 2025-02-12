@@ -2,7 +2,7 @@
 # Site Settings
 title: Rudeops
 logo: # You can add own logo. For example '/images/logo.png'.
-description: RudeOps, la newsletter de la tech et du devops.
+description: RudeOps, la newsletter dédiée aux passionnés de DevOps. Découvrez les meilleures pratiques, outils et stratégies pour automatiser et optimiser vos infrastructures IT. Rejoignez la communauté RudeOps !"
 color_scheme: light # You can choose three modes auto, light, and dark. By default, the auto mode is set, which means the user can choose the light or dark mode themself.
 
 
