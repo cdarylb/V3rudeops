@@ -27,10 +27,24 @@ Vous trouverez ici les ressources dont nous nous servons pour notre propre veill
 
 - [Threat Landscape by Intrinsec](https://www.intrinsec.com/newsletters-securite/) : Une publication de qualité dédiée à la veille en cybersécurité, particulièrement axée sur les menaces actuelles et émergentes. Elle propose des analyses détaillées et contextualisées des dernières menaces, notamment en matière de cybercriminalité et d'activités étatiques. La newsletter couvre des sujets comme les campagnes de ransomware, les vulnérabilités critiques et les tactiques utilisées par les cybercriminels. Leurs insights sont toujours archi pertinents, on vous la conseille fortement.
 
+- [OSINT Team](https://osintteam.com/) Une Newsletter qu'on aime bien, assez pointue, dédiée à l'apprentissage et au partage des techniques d'Open Source Intelligence (OSINT). Leur site propose une variété de ressources permettant d'approfondir nos compétences en OSINT. Parmi ces ressources, on trouve des blogs, des newsletters, des podcasts, des livres et des communautés spécialisées.
+
+- [Awesome SysAdmin Weekly](https://sysadmin.libhunt.com/newsletter) Cette newsletter offre un aperçu des actualités, articles et outils les plus populaires dans le domaine de l'adminsys. Elle est conçue pour aider les professionnels à maintenir leurs connaissances à jour, découvrir des librairies à la mode et rester informés des évolutions au sein de la communauté SysAdmin. Chaque vendredi, les abonnés reçoivent un e-mail compilant les principales actualités et les bibliothèques en vogue. Actuellement, les mecs ont plus de 20 000 abonnés.
+
+- [SRE Weekly](https://sreweekly.com/) Une newsletter dédiée au SRE, qui aborde divers aspects liés à la disponibilité, la scalabilité, la réponse aux incidents et l'automatisation des systèmes. Chaque semaine, SRE Weekly compile et partage des articles, des rapports d'incidents, des analyses et des ressources pertinentes etc.
+
 ---
 
 **Les sites à garder en tête**
 
 - [IT-Connect](https://www.it-connect.fr/) : Ne vous laissez pas tromper par son design des années 80, c'est une mine d'or en terme de ressources, tutos et news (ils ont aussi une newsletter). On ne peut qu'être admiratif devant la masse de travail que ça représente, et vous trouverez forcément votre bonheur, que vous soyez un extrémiste sous Linux ou un mec à problèmes sous Microsoft Windows.
+
+- [Infosec Writeups](https://infosecwriteups.com/) : Une collection d'articles rédigés par des experts en cybersécurité du monde entier. Les articles couvrent divers sujets, notamment les programmes de bug bounty, les compétitions de Capture The Flag, des tutos sur des machines Vulnhub, des défis matériels etc.
+
+- [Alan Pope's blog](https://popey.com/blog/) Un chouette blog tenu par Alan Pope, un expert en communication open source et directeur des relations avec les devs chez Anchore. Il y partage ses expériences et réflexions sur divers sujets liés à la tech, notamment sur l'open source, Linux, l'administration système et le développement logiciel. Les articles couvrent une large gamme de thèmes, tels que des tutos, des analyses de logiciels, des récits un peu plus persos et des discussions sur les communautés techs.
+
+- [Drew DeVault's blog](https://drewdevault.com/) Le blog perso de Drew DeVault, un contributeur très actif dans le domaine des logiciels libres et open source. Il y partage ses réflexions et analyses sur divers sujets liés à la technologie, notamment les licences open source, la fiabilité des logiciels, ainsi que des discussions sur la gouvernance et la transparence au sein des communautés du logiciel libre. 
+
+- [LWN.net](https://lwn.net/) S'adresse à un public "averti" et est souvent salué pour sa couverture approfondie des aspects internes du noyau Linux. Le site est reconnu pour la qualité de son journalisme et son engagement envers la communauté du logiciel libre. 
 
 ---
