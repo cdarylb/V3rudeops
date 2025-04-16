@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Newsletter du 14 Avril 2025
-tags: [devops, Linux, Git, K8s, Gitops]
+tags: [devops, Gitlab, Github, MTTR, DevSecOps]
 comments: true
 mathjax: true
 author: RudeOps
