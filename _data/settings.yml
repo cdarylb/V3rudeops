@@ -62,8 +62,8 @@ mailchimp__button__text: Get updates
 #-------------------------------
 # Projects Settings
 projects__settings:
-  projects__title: Ressources
-  projects__description: Toutes les ressources en rapport avec le devops écrites avec nos gros doigts boudinés.
+  projects__title: Nos guides de survie
+  projects__description: Toutes les ressources nécessaires pour bien débuter.
 
 
 #-------------------------------

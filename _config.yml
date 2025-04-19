@@ -30,7 +30,7 @@ collections:
     permalink: /newsletter/:year-:month-:day-:title/
   projects:
     output: true
-    permalink: /project/:slug
+    permalink: /guide/:slug
 
 # Pages Path
 defaults:
