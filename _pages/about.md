@@ -22,3 +22,4 @@ RudeOps.com c'est la newsletter française dédiée à la tech, à l'open source
 **- 01/11/2023 :** Microsoft nous fait une offre de rachat pour 2 millions d'euros, nous refusons.  
 **- 15/12/2023 :** On ne le sait pas encore, mais ça sera le dernière newsletter avant longtemps car [son papa](https://www.linkedin.com/in/cyrilbeaufrere/) a pris un nouveau job bien prenant.  
 **- 13/05/2024 :** On ressort RudeOps de nos placards, le job du papa est toujours aussi prenant mais on s'organise différemment (en gros on divise le contenu par trois). On en profite aussi pour mettre le site sur Github grâce à Github Pages.  
+**- 10/03/2025 :** RudeOps souffle sa deuxième bougie !
