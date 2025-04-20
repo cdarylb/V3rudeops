@@ -33,6 +33,8 @@ Vous trouverez ici les ressources dont nous nous servons pour notre propre veill
 
 - [SRE Weekly](https://sreweekly.com/) Une newsletter dédiée au SRE, qui aborde divers aspects liés à la disponibilité, la scalabilité, la réponse aux incidents et l'automatisation des systèmes. Chaque semaine, SRE Weekly compile et partage des articles, des rapports d'incidents, des analyses et des ressources pertinentes etc.
 
+- [Toc Toc Neo](https://naimaouaichia.substack.com/) Une newsletter en français qu'on aime beaucoup, écrite par un expert en cybersécurité, et qui paraît environ toutes les deux semaines. On aime le côté très généraliste et les thèmes abordés, ça reste accessible même aux profanes et c'est toujours très bien développé.
+
 ---
 
 **Les sites à garder en tête**
