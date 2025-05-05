@@ -29,8 +29,6 @@ Cyril
 
 </> **How to use LazyGit to improve your git workflow :** Git est un outil conçu par le malin pour te faire douter de ta carrière à chaque merge. Heureusement, [Lazygit est là](https://www.freecodecamp.org/news/how-to-use-lazygit-to-improve-your-git-workflow/) [pour t’éviter la thrombose cérébrale](https://www.freecodecamp.org/news/how-to-use-lazygit-to-improve-your-git-workflow/). Un genre de panneau de contrôle pour Git dans ton terminal, qui te permet de commiter, rebaser et même gérer des conflits sans ouvrir 15 onglets sur StackOverflow.
 
- [![](https://storage.mlcdn.com/account_image/325165/07xeKjaCRiWRpM6PBbYLO16E8l51wpUxdS6A720d.png)](https://blog.stephane-robert.info/) 
-
 # Focus sur le blog de Stéphane Robert
 
 [La caverne d’Ali Baba du DevOps et du DevSecOps.](https://blog.stephane-robert.info/)  
