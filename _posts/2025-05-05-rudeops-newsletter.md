@@ -33,8 +33,8 @@ Cyril
 
 # Focus sur le blog de Stéphane Robert
 
-**[La caverne d’Ali Baba du DevOps et du DevSecOps.](https://blog.stephane-robert.info/)  
-**  
+[La caverne d’Ali Baba du DevOps et du DevSecOps.](https://blog.stephane-robert.info/)  
+
 Des guides clairs, des retours d’expérience concrets, des tutos qui vont droit au but (sur Terraform, Kubernetes, Ansible, Prometheus, et bien d’autres).
 
 Le tout saupoudré de plein de formations gratuites, accessibles et surtout utiles.  
