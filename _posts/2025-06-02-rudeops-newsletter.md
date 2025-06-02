@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Newsletter du 02 Juin 2025
-tags: [devops, Redis, K8s, Pentest, Git]
+tags: [devops, ECS, Kubero, Bruno, Packemon]
 comments: true
 mathjax: true
 author: RudeOps
@@ -53,8 +53,6 @@ C’est bien écrit, ça se lit en moins de 10 minutes (important), et surtout, 
 
 😱 **Detecting malicious Unicode :** Daniel Stenberg nous relate une mésaventure survenue au sein du projet curl : un contributeur a remplacé une lettre ASCII  [par son équivalent Unicode visuellement identique](https://daniel.haxx.se/blog/2025/05/16/detecting-malicious-unicode/)  dans une URL. Résultat ? Aucun membre de l'équipe ni outil d'intégration continue n'a détecté la supercherie. Une démonstration édifiante de la manière dont des caractères Unicode "confusables" peuvent passer inaperçus et potentiellement introduire des vulnérabilités.
 
-_**"A great DevOps culture is built on trust, transparency, and shared responsibility."**  
-_- Patrick Debois, fondateur du mouvement DevOps__
 
 ## Devops web development success, a project manager's handbook
 
