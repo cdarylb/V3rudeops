@@ -38,8 +38,6 @@ Cyril
 
 🪣 **MinIO :** MinIO, ce n’est  [pas juste un S3 open-source](https://github.com/minio/minio)  : c’est l’option pour ceux qui en ont marre de la facture AWS, mais qui veulent  _vraiment_  stocker des pétaoctets sur leur propre grille de serveurs. Un objet store en Go, compatible S3, performant et pensé pour tenir la route à grande échelle, et tout cela sous licence AGPL v3. Avec MinIO, on déploie une stack objet digne de ce nom, qu’on soit sur Docker Compose, Kubernetes ou bare metal. Pas besoin de payer le prix fort quand on peut se construire sa propre version de S3 et en mieux si on sait s’y prendre.
 
-_**"There is no silver bullet in DevOps; success is a journey, not a destination."**  
-_- Damon Edwards, co-fondateur de Rundeck__
 
 ## 7 Docker Compose tricks to level up your development workflow
 
