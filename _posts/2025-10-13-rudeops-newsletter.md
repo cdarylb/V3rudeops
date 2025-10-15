@@ -82,4 +82,4 @@ Le texte de Lane Wagner résume bien la vibe : on n’est plus bloqués devant d
 
 Moralité : si tu veux vraiment apprendre à coder, ferme ton Copilot, garde ton bug, et souffre un peu. C’est le seul moment où ton cerveau bosse.
 
-[Accéder au lien ->](https://blog.boot.dev/education/vibe-code-hell/
+[Accéder au lien ->](https://blog.boot.dev/education/vibe-code-hell/)
